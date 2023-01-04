@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/particle_simulator_app/static/css/main.61beed74.chunk.css",
-    "main.js": "/particle_simulator_app/static/js/main.9d7499ec.chunk.js",
-    "main.js.map": "/particle_simulator_app/static/js/main.9d7499ec.chunk.js.map",
+    "main.js": "/particle_simulator_app/static/js/main.b2ebb0b8.chunk.js",
+    "main.js.map": "/particle_simulator_app/static/js/main.b2ebb0b8.chunk.js.map",
     "runtime-main.js": "/particle_simulator_app/static/js/runtime-main.c71a16c5.js",
     "runtime-main.js.map": "/particle_simulator_app/static/js/runtime-main.c71a16c5.js.map",
-    "static/js/2.fa65d8aa.chunk.js": "/particle_simulator_app/static/js/2.fa65d8aa.chunk.js",
-    "static/js/2.fa65d8aa.chunk.js.map": "/particle_simulator_app/static/js/2.fa65d8aa.chunk.js.map",
+    "static/js/2.7e015f7c.chunk.js": "/particle_simulator_app/static/js/2.7e015f7c.chunk.js",
+    "static/js/2.7e015f7c.chunk.js.map": "/particle_simulator_app/static/js/2.7e015f7c.chunk.js.map",
     "static/js/3.0a476760.chunk.js": "/particle_simulator_app/static/js/3.0a476760.chunk.js",
     "static/js/3.0a476760.chunk.js.map": "/particle_simulator_app/static/js/3.0a476760.chunk.js.map",
     "index.html": "/particle_simulator_app/index.html",
     "static/css/main.61beed74.chunk.css.map": "/particle_simulator_app/static/css/main.61beed74.chunk.css.map",
-    "static/js/2.fa65d8aa.chunk.js.LICENSE.txt": "/particle_simulator_app/static/js/2.fa65d8aa.chunk.js.LICENSE.txt"
+    "static/js/2.7e015f7c.chunk.js.LICENSE.txt": "/particle_simulator_app/static/js/2.7e015f7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c71a16c5.js",
-    "static/js/2.fa65d8aa.chunk.js",
+    "static/js/2.7e015f7c.chunk.js",
     "static/css/main.61beed74.chunk.css",
-    "static/js/main.9d7499ec.chunk.js"
+    "static/js/main.b2ebb0b8.chunk.js"
   ]
 }
